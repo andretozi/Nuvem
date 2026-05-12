@@ -22,6 +22,9 @@ Abaixo estao os links que comprovam a execucao e o funcionamento da arquitetura 
 **Link da Aplicacao Online (Azure):**
 (https://hello-flask-andre.azurewebsites.net/)
 
+<img width="1917" height="996" alt="image" src="https://github.com/user-attachments/assets/c21c1003-3819-4d45-939e-c7284aafd917" /></br>
+
+
 ---
 
 ## Como Executar Localmente
